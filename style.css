@@ -8,7 +8,7 @@
 /* INPUT FIELDS */
 
 #optin input {
-    background: #fff url(images/input.png) repeat-x bottom;
+    background: #ffffff;
     border: 1px solid #ffffff;
     color: #2eb2ea;
     font-size: 20px;
@@ -21,7 +21,7 @@
 /* FIRST AND LAST NAME FIELDS */
 
 #optin input.name {
-    background: #fff url(images/name.png) no-repeat 10px center;
+    background: #ffffff;
     padding-left: 35px;
     font-size: 20px;
     color: #2eb2ea;
@@ -31,7 +31,7 @@
 /* EMAIL ADDRESS FIELD */
 
 #optin input.email {
-    background: #fff url(images/email.png) no-repeat 10px center;
+    background: #ffffff;
     padding-left: 35px;
     font-size: 20px;
     color: #2eb2ea;
