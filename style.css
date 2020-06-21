@@ -1,0 +1,65 @@
+#optin {
+    margin: 0 auto 2em;
+    overflow: hidden;
+    text-align: center;
+}
+
+
+/* INPUT FIELDS */
+
+#optin input {
+    background: #fff url(images/input.png) repeat-x bottom;
+    border: 1px solid #ffffff;
+    color: #2eb2ea;
+    font-size: 20px;
+    margin: 0 10px 10px 0;
+    padding: 8px 10px;
+    width: 200px;
+}
+
+
+/* FIRST AND LAST NAME FIELDS */
+
+#optin input.name {
+    background: #fff url(images/name.png) no-repeat 10px center;
+    padding-left: 35px;
+    font-size: 20px;
+    color: #2eb2ea;
+}
+
+
+/* EMAIL ADDRESS FIELD */
+
+#optin input.email {
+    background: #fff url(images/email.png) no-repeat 10px center;
+    padding-left: 35px;
+    font-size: 20px;
+    color: #2eb2ea;
+}
+
+
+/* SUBMIT BUTTON */
+
+#optin input[type="submit"] {
+    background: #201d4f;
+    border: 0px solid #ffffff;
+    color: #fff;
+    cursor: pointer;
+    text-transform: none;
+    width: auto;
+    line-height: 1.4em;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+
+/* SUBMIT BUTTON HOVER EFFECT */
+
+#optin input[type="submit"]:hover {
+    background-color: #000000 !important;
+}
+
+#optin span {
+    margin-left: 15px;
+    padding-left: 20px;
+}
